@@ -12,5 +12,5 @@
       </feMerge>
     </filter>
   </defs>
-  <text x="256" y="350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="260" font-weight="900" font-style="italic" letter-spacing="-24" fill="url(#red)" stroke="#ff2a2a" stroke-width="5" paint-order="stroke" filter="url(#glow)">NK</text>
+  <text x="256" y="390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="340" font-weight="900" font-style="italic" letter-spacing="-30" fill="url(#red)" stroke="#ff2a2a" stroke-width="5" paint-order="stroke" filter="url(#glow)">NK</text>
 </svg>
